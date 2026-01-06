@@ -1,5 +1,3 @@
-# privacy-preservation-images-yolov8
-Privacy preservation for public images using YOLOv8-based detection and anonymization
 # Privacy Preservation for Images for Public Privacy using YOLOv8
 
 This project focuses on preserving public privacy in images by detecting sensitive
