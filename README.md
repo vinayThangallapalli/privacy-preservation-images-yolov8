@@ -24,12 +24,12 @@ The system ensures that identifiable information is protected before storage or 
 - Streamlit / FastAPI (optional UI)
 
 ## Project Structure
-src/ → detection and anonymization logic
-data/ → input and output images
-models/ → YOLOv8 weights
-app/ → application interface
-docs/ → architecture and documentation
-
+Src/                # Source code
+Input/              # Input videos
+encrypted_frames/   # Encrypted frames
+metadata/           # Metadata files
+Output/             # Final output
+temp/               # Temporary files
 
 ## How It Works
 1. Input image is provided to the system  
